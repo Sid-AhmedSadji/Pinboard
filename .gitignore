@@ -1,0 +1,21 @@
+# Fichiers de Compilation
+*.class
+*.jar
+
+# Répertoires de Sortie de Build
+/bin/
+/out/
+/target/
+
+# Fichiers de Cache
+/node_modules/
+/packages/
+
+# Fichiers Temporaires
+*.log
+*.lock
+*.tmp
+
+# Fichiers Système Cachés
+.DS_Store
+Thumbs.db
